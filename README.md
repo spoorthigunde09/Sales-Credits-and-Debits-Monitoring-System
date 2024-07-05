@@ -1,2 +1,3 @@
 # Sales-Credits-and-Debits-Monitoring-System
 Developed reports on the Sales, Credits, and debits for a manufacturing organization
+I participated in a BI training program. During a group project, I had the opportunity to collaborate with a team member who works in a manufacturing organization. He was particularly impressed with my skills in SQL and Power BI. Recognizing the potential benefits for his company, he approached me after the training to see if I'd be interested in helping him build a POC for a financial reporting system. In order to show how the system can examine sales, credits, and debits for their company, we intend to use fake data."
