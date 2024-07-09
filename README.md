@@ -2,7 +2,7 @@
 I participated in a BI training program. During a group project, I had the opportunity to collaborate with a team member who works in a manufacturing organization. He was particularly impressed with my skills in SQL and Power BI. Recognizing the potential benefits for his company, he approached me after the training to see if I'd be interested in helping him to build a POC for a financial reporting system.Using real company data might not be feasible at this stage due to privacy concerns or the need to simplify the process. Since the project is a POC aiming to showcase the system's functionality, I planned to use fake data in order to show how the system can examine sales, credits, and debits for their company.
 
 Functionality:
-The proposed financial reporting system would be designed to analyze and visualize key financial data points like sales, credits, and debits.
+The proposed financial reporting system is designed to analyze and visualize key financial data points like sales, credits, and debits.
 Sales: This refers to the revenue generated from selling products or services.
 Credits: These are entries that increase a customer's account balance, representing money owed to them.
 Debits: These are entries that decrease a customer's account balance, reflecting payments made or money owed by them.
